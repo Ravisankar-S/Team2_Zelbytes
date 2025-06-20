@@ -54,7 +54,6 @@ We leveraged the **MobileNetV2** architecture using **TensorFlow** to create a l
 |:------------|---------:|-----------:|
 | Training    | 1,208    | ~80%       |
 | Validation  | 301      | ~20%       |
-| Test        | 10       | —          |
 ```
 ---
 
